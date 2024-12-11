@@ -1,5 +1,6 @@
 # DNS Top Scenarios Log Analysis
 This project focuses on analyzing DNS logs from the **botsv1 data log set**, with dashboards and queries designed to provide insights into DNS behavior. Below are the key scenarios analyzed:
+![Top scenarios ](DNS Top Scenarios.png)
 ### **1. Top 10 IPs with NXDOMAIN Response Code**
 - Identifies the IPs generating the most queries resulting in the NXDOMAIN response.
 - Useful for detecting misconfigured systems or potential reconnaissance activity.
