@@ -1,6 +1,7 @@
-## **Project Overview**
+## **Firewall Monitoring**
 
 This project focuses on monitoring and analyzing firewall logs from the **botsv2 data log set**, with queries and dashboards designed to provide insights into network traffic and security events. Below are the key scenarios analyzed:
+![Firewall Monitoring](https://github.com/Vishal-Vallakati/Projects/blob/Firewall-Monitoring/Firewall%20Monitoring.png)
 
 ### **1. Blocked Connections**
 - Identifies all the connections that have been blocked by the firewall.
